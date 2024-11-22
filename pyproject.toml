@@ -2,7 +2,7 @@
 name = "nlp-ean"
 version = "0.1.0"
 description = "Administrador de dependencias para el proyecto de nlp_ean"
-authors = ["izainea <cizaineam@gmail.com>"]
+authors = ["ccjavier <javie.cardozo@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
